@@ -27,6 +27,7 @@ Created Dashboard for Swiggy Company by using the Raw datasets with 197403 rows 
                    Recognized high-performing Restaurant: MacDonalds, KFC, Burger king
                    
                    Vegetarian leading to more in sale than non-veg
-
+                   
+https://github.com/Kamini235/Swiggy-Data-Project-using-SQL/blob/main/Swiggy.png
 
 
